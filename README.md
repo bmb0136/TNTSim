@@ -1,2 +1,0 @@
-# TNTSim
-TNTSim
